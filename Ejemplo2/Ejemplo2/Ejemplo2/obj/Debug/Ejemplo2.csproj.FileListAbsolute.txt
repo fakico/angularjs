@@ -1,0 +1,6 @@
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\bin\Ejemplo2.dll.config
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\bin\Ejemplo2.dll
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\bin\Ejemplo2.pdb
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.dll
+H:\Angular\Ejemplos\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
